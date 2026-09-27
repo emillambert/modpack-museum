@@ -1,0 +1,9 @@
+{
+  "item.modpack_museum.archive_token": "Archive Token",
+  "item.modpack_museum.iron_dust": "Iron Dust",
+  "block.modpack_museum.test_machine": "Museum Test Machine",
+  "block.modpack_museum.generator": "Generator",
+  "block.modpack_museum.cable": "Insulated Cable",
+  "block.modpack_museum.batbox": "BatBox",
+  "block.modpack_museum.macerator": "Macerator"
+}

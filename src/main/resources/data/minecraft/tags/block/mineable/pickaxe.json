@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "modpack_museum:test_machine",
+    "modpack_museum:generator",
+    "modpack_museum:cable",
+    "modpack_museum:batbox",
+    "modpack_museum:macerator"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "f": "minecraft:furnace",
+    "i": "minecraft:iron_ingot",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [
+    "iri",
+    "ifi",
+    "iri"
+  ],
+  "result": {
+    "id": "modpack_museum:generator"
+  }
+}

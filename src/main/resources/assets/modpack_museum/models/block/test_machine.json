@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "modpack_museum:block/test_machine_side",
+    "down": "modpack_museum:block/test_machine_side",
+    "up": "modpack_museum:block/test_machine_top",
+    "north": "modpack_museum:block/test_machine_front",
+    "south": "modpack_museum:block/test_machine_side",
+    "west": "modpack_museum:block/test_machine_side",
+    "east": "modpack_museum:block/test_machine_side"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "modpack_museum",
+  "version": "${version}",
+  "name": "Modpack Museum",
+  "description": "Server-side preservation framework for classic Minecraft modpack gameplay.",
+  "authors": ["Modpack Museum contributors"],
+  "contact": {
+    "sources": "https://github.com/emillambert/modpack-museum"
+  },
+  "license": "Apache-2.0",
+  "environment": "server",
+  "entrypoints": {
+    "main": ["net.modpackmuseum.core.ModpackMuseum"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "polymer-core": "*",
+    "polymer-blocks": "*",
+    "polymer-resource-pack": "*"
+  }
+}

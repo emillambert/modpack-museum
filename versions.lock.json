@@ -1,0 +1,12 @@
+{
+  "verified_on": "2026-09-27",
+  "minecraft": "26.2",
+  "java": 25,
+  "gradle": "9.5.1",
+  "fabric_loom": "1.17-SNAPSHOT",
+  "fabric_loader": "0.19.3",
+  "fabric_api": "0.156.0+26.2",
+  "polymer": "0.17.4+26.2",
+  "notes": "Human-readable lock for the technology-preview baseline. gradle.properties remains the build source of truth; update both together after compatibility verification.",
+  "docker_minecraft_server": "2026.9.1-java25"
+}

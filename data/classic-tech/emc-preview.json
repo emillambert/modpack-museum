@@ -1,0 +1,11 @@
+{
+  "$schema": "museum:emc-preview-v1",
+  "status": "design-only-not-loaded-yet",
+  "note": "Values are placeholders for exercising the future registry. Historical fidelity values must be sourced before M4.",
+  "values": {
+    "minecraft:cobblestone": 1,
+    "minecraft:coal": 128,
+    "minecraft:iron_ingot": 256,
+    "minecraft:diamond": 8192
+  }
+}

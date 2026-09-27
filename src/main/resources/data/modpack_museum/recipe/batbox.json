@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": "modpack_museum:cable",
+    "p": "#minecraft:planks",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [
+    "ppp",
+    "crc",
+    "ppp"
+  ],
+  "result": {
+    "id": "modpack_museum:batbox"
+  }
+}

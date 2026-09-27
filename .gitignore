@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Runtime/server state
+server/runtime/*
+!server/runtime/.gitkeep
+server/local-mods/*
+!server/local-mods/.gitkeep
+
+# Generated resource packs / logs
+polymer-resourcepack.zip
+*.log
+logs/
+
+# OS
+.DS_Store
+
+.gradle-dist/

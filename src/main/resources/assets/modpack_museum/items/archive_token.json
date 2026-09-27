@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "modpack_museum:item/archive_token"
+  }
+}

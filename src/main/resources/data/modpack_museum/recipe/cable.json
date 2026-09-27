@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "ccc"
+  ],
+  "result": {
+    "count": 6,
+    "id": "modpack_museum:cable"
+  }
+}

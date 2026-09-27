@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "f": "minecraft:flint",
+    "i": "minecraft:iron_ingot",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [
+    "fff",
+    "iri",
+    "ifi"
+  ],
+  "result": {
+    "id": "modpack_museum:macerator"
+  }
+}

@@ -1,0 +1,23 @@
+name: Feature / recreation
+about: Propose an implementation or historical recreation
+labels: []
+body:
+  - type: textarea
+    attributes:
+      label: Goal
+      description: What player-facing behavior should exist?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Historical reference
+      description: Links, versions, videos, docs, source where legally usable, or observed behavior.
+  - type: textarea
+    attributes:
+      label: Vanilla-client representation
+      description: How should a stock client see/interact with this feature?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Persistence/performance risks
